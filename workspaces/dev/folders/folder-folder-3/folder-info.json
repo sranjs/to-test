@@ -1,0 +1,16 @@
+{
+  "id" : 619,
+  "name" : "folder-folder-3",
+  "description" : "test-levels 1",
+  "fileType" : "folder",
+  "projectLevel" : "/623/617/611/616",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2024-09-13T23:24:40Z",
+    "updatedDate" : "2025-04-10T12:22:46Z"
+  }
+}

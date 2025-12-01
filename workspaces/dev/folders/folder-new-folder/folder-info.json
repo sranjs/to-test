@@ -1,0 +1,16 @@
+{
+  "id" : 701,
+  "name" : "folder-new folder",
+  "description" : " ",
+  "fileType" : "folder",
+  "projectLevel" : "623/617/611",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2025-04-30T10:39:21Z",
+    "updatedDate" : "2025-06-02T23:41:29Z"
+  }
+}

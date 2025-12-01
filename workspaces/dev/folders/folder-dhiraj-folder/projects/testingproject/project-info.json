@@ -1,0 +1,18 @@
+{
+  "id" : 653,
+  "name" : "testingproject",
+  "description" : " ",
+  "fileType" : "project",
+  "projectLevel" : "623/617",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ON_HOLD",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "Aman",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2025-03-20T12:54:32Z",
+    "updatedDate" : "2025-11-15T10:58:34Z"
+  }
+}

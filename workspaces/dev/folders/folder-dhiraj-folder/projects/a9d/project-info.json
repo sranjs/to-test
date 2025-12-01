@@ -1,0 +1,18 @@
+{
+  "id" : 682,
+  "name" : "a9d",
+  "description" : "s",
+  "fileType" : "project",
+  "projectLevel" : "/623/617",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2025-03-27T12:01:20Z",
+    "updatedDate" : "2025-04-10T12:22:46Z"
+  }
+}

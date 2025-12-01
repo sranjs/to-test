@@ -1,0 +1,28 @@
+{
+  "projectId" : 673,
+  "parameters" : [ {
+    "key" : "connection_name",
+    "value" : "large_data",
+    "type" : null,
+    "projectId" : 673
+  }, {
+    "key" : "connection_name",
+    "value" : "large_data",
+    "type" : null,
+    "projectId" : 673
+  }, {
+    "key" : "connection_name1",
+    "value" : "large_data",
+    "type" : null,
+    "projectId" : 673
+  }, {
+    "key" : "demete",
+    "value" : "wqerqwerwe",
+    "type" : null,
+    "projectId" : 673
+  } ],
+  "metadata" : {
+    "lastUpdated" : "2025-12-01T01:09:07.600468549Z",
+    "updatedBy" : "system-sync"
+  }
+}

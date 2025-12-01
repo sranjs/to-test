@@ -1,0 +1,18 @@
+{
+  "id" : 643,
+  "name" : "my_child_project",
+  "description" : "my_child_project",
+  "fileType" : "project",
+  "projectLevel" : "/623/617/642",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2025-03-05T12:50:09Z",
+    "updatedDate" : "2025-04-10T12:22:46Z"
+  }
+}

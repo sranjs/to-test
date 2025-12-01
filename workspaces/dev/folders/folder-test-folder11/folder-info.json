@@ -1,0 +1,16 @@
+{
+  "id" : 782,
+  "name" : "folder-test folder11",
+  "description" : "test folder",
+  "fileType" : "folder",
+  "projectLevel" : "/623",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : null,
+    "createdDate" : "2025-09-09T10:21:34Z",
+    "updatedDate" : "2025-09-09T10:21:34Z"
+  }
+}

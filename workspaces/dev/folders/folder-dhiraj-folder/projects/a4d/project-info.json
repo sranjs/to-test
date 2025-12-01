@@ -1,0 +1,18 @@
+{
+  "id" : 672,
+  "name" : "a4d",
+  "description" : "asd",
+  "fileType" : "project",
+  "projectLevel" : "/617",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ARCHIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : null,
+    "createdDate" : "2025-03-27T09:41:30Z",
+    "updatedDate" : "2025-11-10T09:18:57Z"
+  }
+}
