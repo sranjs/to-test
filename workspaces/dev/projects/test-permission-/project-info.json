@@ -1,0 +1,18 @@
+{
+  "id" : 815,
+  "name" : "test permission ",
+  "description" : "test permission ",
+  "fileType" : "project",
+  "projectLevel" : "/",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : null,
+    "createdDate" : "2025-11-14T10:43:54Z",
+    "updatedDate" : "2025-11-14T10:43:54Z"
+  }
+}
